@@ -1,1 +1,0 @@
-END =[FBAN/Orca-Android;FBAV/393.0.0.18.92;FBPN/com.facebook.orca;FBLC/en_US;FBBV/440593596;FBCR/null;FBMF/Xiaomi;FBBD/Redmi;FBDV/2201117SY;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=1080,height=2177};FB_FW/1;]
