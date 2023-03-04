@@ -1,0 +1,1 @@
+[FBAN/MobileAdsManagerAndroid;FBAV/132.0.0.28.47;FBPN/com.facebook.adsmanager;FBLC/in_ID;FBBV/13543083;FBCR/ZONG;FBMF/TECNO;FBBD/TECNO;FBDV/TECNO PR651E;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1456};FB_FW/1;]
