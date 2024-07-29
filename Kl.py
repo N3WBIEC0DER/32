@@ -1,2 +1,2 @@
-import newapi
-newapi.random_india()
+import test
+test.random_india()
